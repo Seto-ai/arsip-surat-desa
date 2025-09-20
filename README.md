@@ -48,3 +48,9 @@ Aplikasi ini bertujuan untuk menyediakan sistem digital bagi Kelurahan Karangdur
     php artisan serve
     ```
     Aplikasi akan berjalan di `http://127.0.0.1:8000`.
+
+## 📸 Screenshot Aplikasi
+
+![Halaman Utama](public/images/utama.png)
+![Halaman Unggah](public/images/unggah.png)
+![Halaman Kategori](public/images/kategori.png)

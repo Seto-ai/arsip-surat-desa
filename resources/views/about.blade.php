@@ -30,7 +30,7 @@
                 </tr>
                 <tr>
                     <td><strong>Tanggal</strong></td>
-                    <td>:16 September 2025</td>
+                    <td>: 19 September 2025</td>
                 </tr>
             </table>
         </div>
