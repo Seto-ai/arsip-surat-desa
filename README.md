@@ -23,7 +23,7 @@ Aplikasi ini bertujuan untuk menyediakan sistem digital bagi Kelurahan Karangdur
 
 1.  **Clone Repository:**
     ```bash
-    git clone [https://www.fda.gov/drugs/types-applications/abbreviated-new-drug-application-anda](https://www.fda.gov/drugs/types-applications/abbreviated-new-drug-application-anda)
+    git clone [https://github.com/Seto-ai/arsip-surat-desa.git]
     cd arsip-surat-desa
     ```
 2.  **Instalasi Dependensi:**
